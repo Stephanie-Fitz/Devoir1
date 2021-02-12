@@ -5,6 +5,7 @@
     margin-bottom: 3vw;
 }
 
+/* Page d'accueil */
 .titre {
     font-size: 3vw;
     padding-top: 3vw;
@@ -23,6 +24,10 @@
     color: #ffffff;
     font-family: 'Lexend Tera', sans-serif;
     background-color: #1f2561;
+    text-align: center;
+}
+
+.image-accueil {
     text-align: center;
 }
 
@@ -45,6 +50,7 @@
     margin-bottom: 5vw;
 }
 
+/* Page d'introduction */
 .titre-intro {
     color: #ffffff;
     font-family: 'Lexend Tera', sans-serif;
@@ -86,6 +92,7 @@
     background-color: rgb(138, 86, 138);
 }
 
+/* Page sur la réflexion */
 .titre-rfl {
     color: #ffffff;
     font-family: 'Lexend Tera', sans-serif;
@@ -141,6 +148,7 @@
     background-color: rgb(48, 150, 119);
 }
 
+/* Pour toutes les pages */
 a:hover {
     text-decoration: none;
 }
