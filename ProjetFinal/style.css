@@ -5,12 +5,12 @@
    list-style: none;
    text-decoration: none; 
 }
-header {
+.tete {
     background-color: #2E3532;
+    padding: 1vw;
 }
 
 img {
     width: 500px;
     text-align: center;
-    padding: 1vw;
 }
