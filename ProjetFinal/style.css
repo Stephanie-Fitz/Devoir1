@@ -18,7 +18,14 @@ img {
 .cote {
     background-color: #3C887E;
     float: left;
-    width: 30%;
+    width: 20%;
     padding: 20px;
     text-decoration: none;
+}
+
+.main {
+    background-color: #E0E2DB;
+    float: left;
+    width: 80%;
+    padding: 20px;
 }
