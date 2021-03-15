@@ -29,6 +29,7 @@ img {
     padding: 20px;
     text-decoration: none;
     text-align: center;
+    display: inline-block;
 }
 
 .main {
