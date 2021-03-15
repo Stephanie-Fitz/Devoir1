@@ -34,6 +34,7 @@ img {
 .main {
     background-color: #E0E2DB;
     float: right;
-    width: 80%;
+    width: 100%;
+    height: 100%;
     padding: 20px;
 }
