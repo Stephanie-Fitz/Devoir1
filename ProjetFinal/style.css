@@ -11,5 +11,6 @@ header {
     color: #ffffff;
     text-align: center;
     padding: 5vw;
-    margin: 0;
+    width: 100%;
+    display: block;
 }
