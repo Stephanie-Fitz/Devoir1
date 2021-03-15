@@ -14,3 +14,10 @@ img {
     width: 500px;
     text-align: center;
 }
+
+.cote {
+    background-color: #3C887E;
+    float: left;
+    width: 30%;
+    padding: 20px;
+}
