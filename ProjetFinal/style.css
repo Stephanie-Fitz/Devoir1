@@ -11,7 +11,7 @@
 }
 
 img {
-    width: 500px;
+    width: 300px;
     text-align: center;
 }
 
@@ -20,4 +20,5 @@ img {
     float: left;
     width: 30%;
     padding: 20px;
+    text-decoration: none;
 }
