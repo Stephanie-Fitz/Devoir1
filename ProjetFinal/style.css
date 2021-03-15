@@ -9,12 +9,8 @@ header {
     background-color: #2E3532;
 }
 
-.tete {
-    background-color: #2E3532;
-    padding: 2vw;
-}
-
 img {
     width: 500px;
     text-align: center;
+    padding: 1vw;
 }
