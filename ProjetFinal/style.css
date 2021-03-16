@@ -5,7 +5,7 @@
    text-decoration: none; 
 }
 
-/* .header */
+/* Page d'accueil */
 .tete {
     width: 100%;
     padding: 1vw;
@@ -13,7 +13,6 @@
     background-color: #2E3532;
 }
 
-/* .inner-header */
 .tete_interieur {
     text-align: center;
 }
@@ -28,9 +27,7 @@ img {
     padding: 20px;
     text-decoration: none;
     text-align: center;
-    display: inline-block;
 }
-
 
 .bouton1, .bouton2 {
     color: #ffffff;
@@ -38,7 +35,7 @@ img {
 
 .main {
     background-color: #E0E2DB;
-    width: 80%;
+    width: 100%;
     padding: 20px;
     text-align: center;
 }
