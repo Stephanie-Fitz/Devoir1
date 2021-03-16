@@ -23,3 +23,15 @@ body {
 img {
     width: 300px;
 }
+
+ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+ul li {
+    list-style: none;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 30px;
+    border-radius: 15px;
+}
