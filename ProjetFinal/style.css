@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url("fond1.png");
+    background-image: url("texture1.png");
 }
 
 /* Page d'accueil */
@@ -51,6 +51,7 @@ nav ul li a {
     text-align: center;
     border-radius: 15px;
     font-size: 27px;
+    left: 50%;
 }
 
 nav ul li a:hover {
