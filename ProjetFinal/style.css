@@ -1,9 +1,9 @@
-/**{
+*{
    margin: 0;
    padding: 0;
    list-style: none;
    text-decoration: none; 
-}*/
+}
 
 body {
     background-color: #E0E2DB;
@@ -40,7 +40,6 @@ nav ul li {
     font-family: 'Roboto Condensed', sans-serif;
     margin: 30px;
     border-radius: 15px;
-    border-right: 1px solid #2E3532;
 }
 
 nav ul li a {
