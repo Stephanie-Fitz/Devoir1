@@ -1,12 +1,12 @@
-/**{
+*{
    margin: 0;
    padding: 0;
    list-style: none;
    text-decoration: none; 
-}*/
+}
 
 body {
-    background-color: #E0E2DB;
+    background-image: url("fond4.png");
 }
 
 /* Page d'accueil */
