@@ -32,18 +32,20 @@ img {
     transform: translate(-50%,-50%);
 }
 
-/*.ul {
-    display: flex;
+.ul {
+    padding: 0px;
+    margin: 0px;
 }
 
 .ul li {
     border: 2px solid #A7C4C2;
     font-weight: bold;
+    font-family: 'Open Sans Condensed', sans-serif;
     margin: 30px;
     border-radius: 15px;
 }
 
-.ul li a {
+/*.ul li a {
     text-decoration: none;
     padding: 15px 35px;
     display: block;
