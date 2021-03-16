@@ -5,6 +5,10 @@
    text-decoration: none; 
 }
 
+body {
+    background-color: #E0E2DB;
+}
+
 /* Page d'accueil */
 .tete {
     width: 100%;
