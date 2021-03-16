@@ -8,7 +8,6 @@
 /* Page d'accueil */
 .tete {
     width: 100%;
-    padding: 1vw;
     display: block;
     background-color: #2E3532;
 }
@@ -31,6 +30,8 @@ img {
 
 .bouton1, .bouton2 {
     color: #ffffff;
+    background-color: #A7C4C2;
+    font-display: inline-block;
 }
 
 .main {
