@@ -27,6 +27,7 @@ img {
 nav ul {
     padding: 0px;
     margin: 0px;
+    display: flex;
 }
 
 nav ul li {
