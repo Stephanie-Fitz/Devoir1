@@ -5,11 +5,12 @@
    text-decoration: none; 
 }
 
+/* Fond d'écran */
 body {
     background-image: url("fond4.png");
 }
 
-/* Page d'accueil */
+/* Haut de page : Section grise foncée */
 .tete {
     width: 100%;
     display: block;
@@ -24,9 +25,17 @@ img {
     width: 300px;
 }
 
+/* Haut de page : Section turquoise */
+.boutons {
+    background-color: #3C887E;
+    width: 100%;
+}
+
 nav ul {
     padding: 0px;
     margin: 0px;
+    display: flex;
+    text-align: center;
 }
 
 nav ul li {
@@ -38,6 +47,43 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #2E3532;
+    color: #ffffff;
     border: 2px solid #A7C4C2;
+    padding: 15px 35px;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 25px;
+    left: 50%;
+}
+
+nav ul li a:hover {
+    text-decoration: none;
+    color: #2E3532;
+    background-color: #A7C4C2;
+    padding: 15px 35px;
+    text-align: center;
+    border-radius: 15px;
+    transition: cubic-bezier(.07,.5,.3,1) 0.6s;
+}
+
+/* Contenu principal */
+.main {
+    padding: 500px;
+    margin: 15px;
+}
+
+/* Pied de page : Section turquoise */
+.pied {
+    background-color: #3C887E;
+    color: #3C887E;
+    width: 100%;
+}
+
+/* Pied de page : Section grise foncée */
+.pied_interieur {
+    background-color: #2E3532;
+    color: #6c7470;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding: 50px;
+    text-align: center;
 }
