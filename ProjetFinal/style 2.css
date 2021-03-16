@@ -1,0 +1,43 @@
+/**{
+   margin: 0;
+   padding: 0;
+   list-style: none;
+   text-decoration: none; 
+}*/
+
+body {
+    background-color: #E0E2DB;
+}
+
+/* Page d'accueil */
+.tete {
+    width: 100%;
+    display: block;
+    background-color: #2E3532;
+}
+
+.tete_interieur {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}
+
+nav ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+nav ul li {
+    list-style: none;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 30px;
+    border-radius: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #2E3532;
+    border: 2px solid #A7C4C2;
+}
