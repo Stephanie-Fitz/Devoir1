@@ -22,19 +22,23 @@ img {
     width: 300px;
 }
 
-.cote {
+.navigation {
     background-color: #3C887E;
-    float: left;
-    width: 20%;
+    width: 100%;
     padding: 20px;
     text-decoration: none;
     text-align: center;
     display: inline-block;
 }
 
+
+.bouton1, .bouton2 {
+    color: #ffffff;
+}
+
 .main {
     background-color: #E0E2DB;
-    float: right;
     width: 80%;
     padding: 20px;
+    text-align: center;
 }
