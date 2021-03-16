@@ -33,6 +33,7 @@ nav ul {
     padding: 0px;
     margin: 0px;
     display: flex;
+    text-align: center;
 }
 
 nav ul li {
@@ -40,7 +41,6 @@ nav ul li {
     font-family: 'Roboto Condensed', sans-serif;
     margin: 30px;
     border-radius: 15px;
-    text-align: center;
 }
 
 nav ul li a {
