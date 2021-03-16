@@ -24,14 +24,20 @@ img {
     width: 300px;
 }
 
-ul {
+nav ul {
     padding: 0px;
     margin: 0px;
 }
 
-ul li {
+nav ul li {
     list-style: none;
     font-family: 'Roboto Condensed', sans-serif;
     margin: 30px;
     border-radius: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #2E3532;
+    border: 2px solid #A7C4C2;
 }
