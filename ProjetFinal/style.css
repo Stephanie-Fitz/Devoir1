@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url(fond1);
+    background-image: url("fond1.png");
 }
 
 /* Page d'accueil */
@@ -50,7 +50,8 @@ nav ul li a {
     padding: 15px 35px;
     text-align: center;
     border-radius: 15px;
-    font-size: 30px;
+    font-size: 27px;
+    position: absolute;
 }
 
 nav ul li a:hover {
