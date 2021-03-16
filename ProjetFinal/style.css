@@ -5,10 +5,6 @@
    text-decoration: none; 
 }
 
-body {
-    background-color: #E0E2DB;
-}
-
 /* Page d'accueil */
 .tete {
     width: 100%;
@@ -24,14 +20,19 @@ img {
     width: 300px;
 }
 
-.boutons {
-    text-align: center;
+/* Boutons */
+.bg {
+    background-color: #E0E2DB;
+}
+
+.center {
+    position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
 
-.ul {
+/*.ul {
     display: flex;
 }
 
@@ -59,4 +60,4 @@ img {
     padding: 20px;
     text-align: center;
     color: #2E3532;
-}
+}*/
