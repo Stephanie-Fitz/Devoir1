@@ -8,7 +8,7 @@
 /* Fond d'écran */
 body {
     background-image: url("texture1.png");
-    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 /* Haut de page : Section grise foncée */
