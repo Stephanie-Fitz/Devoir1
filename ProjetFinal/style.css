@@ -33,6 +33,8 @@ nav ul {
     padding: 0px;
     margin: 0px;
     display: flex;
+    position: absolute;
+    transform: translate(-50%,-50%);
 }
 
 nav ul li {
