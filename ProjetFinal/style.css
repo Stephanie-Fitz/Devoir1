@@ -5,6 +5,10 @@
    text-decoration: none; 
 }
 
+.body {
+    background-color: #E0E2DB;
+}
+
 /* Page d'accueil */
 .tete {
     width: 100%;
@@ -18,49 +22,4 @@
 
 img {
     width: 300px;
-}
-
-/* Boutons */
-.bg {
-    background-color: #E0E2DB;
-}
-
-.center {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-}
-
-.ul {
-    padding: 0px;
-    margin: 0px;
-    display: flex;
-}
-
-.ul li {
-    border: 2px solid #A7C4C2;
-    font-weight: bold;
-    font-family: 'Open Sans Condensed', sans-serif;
-    margin: 30px;
-    border-radius: 15px;
-}
-
-.ul li a {
-    text-decoration: none;
-    padding: 15px 35px;
-    display: block;
-    text-align: center;
-    border-radius: 15px;
-}
-
-.a {
-    color: #2E3532;
-    border: 2px solid #A7C4C2;
-}
-
-.main {
-    padding: 20px;
-    text-align: center;
-    color: #2E3532;
 }
