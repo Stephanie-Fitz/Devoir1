@@ -11,7 +11,7 @@ body {
 }
 
 /* Haut de page : Section grise foncée */
-#footer {
+#header {
     position: fixed;
     width: 100%;
 }
