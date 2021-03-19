@@ -10,6 +10,11 @@ body {
     background-color: #E0E2DB;
 }
 
+#container {
+    min-height: 100%;
+    position: relative;
+ }
+
 /* Haut de page : Section grise foncée */
 .tete {
     width: 100%;
@@ -68,7 +73,11 @@ nav ul li a:hover {
 }
 
 /* Contenu principal */
-.main {
+#body {
+    padding-bottom: 200px;   /* Height of the footer */
+ }
+
+.paragraphe {
     margin: 15px;
 }
 
