@@ -11,6 +11,12 @@ body {
 }
 
 /* Haut de page : Section grise foncée */
+#header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
 .tete {
     width: 100%;
     display: block;
@@ -69,11 +75,19 @@ nav ul li a:hover {
 
 /* Contenu principal */
 .main {
-    padding: 500px;
     margin: 15px;
+    padding-top: 400px;
+    padding-bottom: 200px;
 }
 
 /* Pied de page : Section turquoise */
+#footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
 .pied {
     background-color: #3C887E;
     color: #3C887E;
