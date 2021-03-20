@@ -5,10 +5,43 @@
    text-decoration: none; 
 }
 
+
 /* Fond d'écran */
 body {
-    background-color: #E0E2DB;
+    background-color: #E0E2DB;}
+
+    .image1 {
+        position : relative;
+        float: left;
+        width : 35vw;
+        margin-left : 460px;
+     
+    }
+    .image2 {
+        position : relative;
+        float: left;
+        width : 35vw;
+        margin-left : 460px;
+        padding-top: 20px;
+    }
+    .image3{
+        position : relative;
+        float: left;
+        width : 35vw;
+        margin-left : 460px;
+       padding-top: 20px;
+    }
+    
+    .image4{
+        position : relative;
+        float: left;
+        width : 35vw;
+        margin-left : 460px;
+        padding-top: 20px;
+    
+    }
 }
+
 
 /* Haut de page : Section grise foncée */
 #header {
@@ -79,6 +112,8 @@ nav ul li a:hover {
     padding-top: 300px;
     padding-bottom: 100px;
 }
+
+
 
 /* Pied de page : Section turquoise */
 #footer {

@@ -12,6 +12,7 @@ body {
 
 /* Haut de page : Section grise foncée */
 #header {
+    
     position: fixed;
     width: 100%;
     top: 0;
@@ -79,6 +80,43 @@ nav ul li a:hover {
     padding-top: 500px;
     padding-bottom: 100px;
 }
+/*.images {
+  /*display:inline-block;
+  width: 50px;
+  min-height: 50px;
+  vertical-align:top;
+  padding:4px;
+  zoom:1;
+  *display: inline;
+  float: left;
+  display:inline-block;
+  position : relative;
+    width : 10;
+    margin-left : 200px;
+    padding-top: 10px;
+    
+  
+}*/
+.photos {
+    position : relative;
+    width : 20vw;
+    margin-left : 200px;
+    padding-top: 10px;
+    
+    
+}
+/*.Biancaprofil {
+    position : relative;
+    width : 20vw;
+    margin-left : 100px;
+    padding-top: 500px;
+}
+.Isabelleprofil{
+    position : relative;
+    width : 20vw;
+    margin-left : 100px;
+    padding-top: 500px;
+}*/
 
 /* Pied de page : Section turquoise */
 #footer {
