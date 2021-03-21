@@ -87,6 +87,17 @@ nav ul li a:hover {
     font-family: 'Roboto Condensed', sans-serif;
     color: #8B2635;
 }
+
+.paragraphe {
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    text-align: justify;
+    font-size: 27px;
+    font-family: 'Roboto Condensed', sans-serif;
+    line-height: 1.5;
+}
  
 /* Pied de page : Section turquoise */
 #footer {
