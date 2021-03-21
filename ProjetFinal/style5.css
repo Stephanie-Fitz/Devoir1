@@ -79,10 +79,12 @@ nav ul li a:hover {
 }
 
 .main img {
-    text-align: center;
     width: 30vw;
     margin: 60px;
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
  
 /* Pied de page : Section turquoise */
