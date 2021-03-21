@@ -79,6 +79,7 @@ nav ul li a:hover {
 
 .slogan {
     margin: 60px;
+    margin-top: 30px;
     text-align: center;
     font-size: 55px;
     font-weight: bold;
@@ -93,11 +94,12 @@ nav ul li a:hover {
     text-align: justify;
     font-size: 27px;
     font-family: 'Roboto Condensed', sans-serif;
+    line-height: 1.5;
 }
 
 .profils {
     width: 10vw;
-    display: flex;
+    display: block;
     justify-content: center;
     margin-left: 50px;
     margin-right: 50px;
