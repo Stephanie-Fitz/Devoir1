@@ -129,6 +129,10 @@ nav ul li a:hover {
     margin-top: 100px;
 }
 
+.icones {
+    width: 10vw;
+}
+
 /* Pied de page : Section turquoise */
 #footer {
     bottom: 0;
