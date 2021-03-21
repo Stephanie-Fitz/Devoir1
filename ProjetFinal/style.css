@@ -76,10 +76,29 @@ nav ul li a:hover {
 
 /* Contenu principal */
 .main {
-    margin: 15px;
+    margin: 40px;
     padding-top: 500px;
     padding-bottom: 100px;
 }
+
+.slogan {
+    margin: 40px;
+    padding-top: 500px;
+    padding-bottom: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.introduction {
+    margin: 40px;
+    padding-top: 500px;
+    padding-bottom: 100px;
+    text-align: justify;
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
 /*.images {
   /*display:inline-block;
   width: 50px;
