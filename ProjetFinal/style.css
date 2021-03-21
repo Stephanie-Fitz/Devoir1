@@ -102,15 +102,16 @@ nav ul li a:hover {
     width: 10vw;
     margin-left: 50px;
     margin-right: 50px;
-    text-align: center;
-}
-
-.icones {
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 
-.icones:hover {
+.profils li a img {
+    text-align: center;
+}
+
+.profils li a img:hover {
     opacity: 0.5;
 }
 
