@@ -10,7 +10,7 @@
 body {
     background-color: #E0E2DB;}
 
-    .image1 {
+    /*.image1 {
         position : relative;
         float: left;
         width : 35vw;
@@ -39,7 +39,7 @@ body {
         margin-left : 460px;
         padding-top: 20px;
     
-    }
+    }*/
 }
 
 
@@ -113,7 +113,12 @@ nav ul li a:hover {
     padding-bottom: 100px;
 }
 
-
+.profils {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 
 /* Pied de page : Section turquoise */
 #footer {
