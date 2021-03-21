@@ -74,15 +74,13 @@ nav ul li a:hover {
 
 /* Contenu principal */
 .main {
-    margin: 40px;
-    padding-top: 500px;
-    padding-bottom: 100px;
+    margin: 15px;
 }
 
 .slogan {
     margin: 40px;
     text-align: center;
-    font-size: 45px;
+    font-size: 55px;
     font-weight: bold;
     font-family: 'Roboto Condensed', sans-serif;
 }
@@ -93,14 +91,16 @@ nav ul li a:hover {
     margin-top: 30px;
     margin-bottom: 30px;
     text-align: justify;
-    font-size: 32px;
+    font-size: 27px;
     font-family: 'Roboto Condensed', sans-serif;
 }
 
 .profils {
     width: 10vw;
-    display: block;
-    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .profils:hover {
