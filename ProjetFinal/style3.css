@@ -129,7 +129,7 @@ nav ul li a:hover {
 }
 
 .profils li a img {
-    width: 20vw;
+    width: 25vw;
     margin-bottom: 100px;
     transition: cubic-bezier(.07,.5,.3,1) 0.6s;
 }

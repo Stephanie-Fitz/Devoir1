@@ -108,7 +108,7 @@ nav ul li a:hover {
 }
 
 .profils li a img {
-    margin-bottom: 200px;
+    margin-bottom: 130px;
     text-align: center;
     width: 20vw;
     transition: cubic-bezier(.07,.5,.3,1) 0.6s;
