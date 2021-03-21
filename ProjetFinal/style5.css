@@ -75,10 +75,11 @@ nav ul li a:hover {
 /* Contenu principal */
 .main {
     margin: 15px;
+    text-align: center;
 }
 
 .cv {
-    justify-content: center;
+    text-align: center;
     width: 30vw;
     margin: 60px;
 }
