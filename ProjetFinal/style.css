@@ -106,9 +106,7 @@ nav ul li a:hover {
 }
 
 .icones {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+    text-align: center;
 }
 
 
