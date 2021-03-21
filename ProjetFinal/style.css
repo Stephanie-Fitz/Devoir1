@@ -84,7 +84,7 @@ nav ul li a:hover {
 .slogan {
     margin: 40px;
     text-align: center;
-    font-size: 70px;
+    font-size: 27px;
     font-weight: bold;
     font-family: 'Roboto Condensed', sans-serif;
 }
@@ -92,12 +92,13 @@ nav ul li a:hover {
 .introduction {
     margin: 40px;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     font-family: 'Roboto Condensed', sans-serif;
 }
 
 .profils {
-    width: 20vw;
+    width: 10vw;
+    display: flex;
 }
 
 /*.images {
@@ -140,7 +141,7 @@ nav ul li a:hover {
 
 /* Pied de page : Section turquoise */
 #footer {
-    position: fixed;
+    position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
