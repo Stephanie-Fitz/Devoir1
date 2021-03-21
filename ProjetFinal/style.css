@@ -96,6 +96,10 @@ nav ul li a:hover {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+.profils {
+    width: 20vw;
+}
+
 /*.images {
   /*display:inline-block;
   width: 50px;
@@ -112,7 +116,7 @@ nav ul li a:hover {
     padding-top: 10px;
     
   
-}*/
+}
 .photos {
     position : relative;
     width : 20vw;
@@ -121,7 +125,7 @@ nav ul li a:hover {
     
     
 }
-/*.Biancaprofil {
+.Biancaprofil {
     position : relative;
     width : 20vw;
     margin-left : 100px;
