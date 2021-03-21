@@ -12,7 +12,6 @@ body {
 
 /* Haut de page : Section grise foncée */
 #header {
-    position: fixed;
     width: 100%;
     top: 0;
 }
@@ -82,7 +81,6 @@ nav ul li a:hover {
 
 /* Pied de page : Section turquoise */
 #footer {
-    position: fixed;
     bottom: 0;
     left: 0;
     width: 100%;
