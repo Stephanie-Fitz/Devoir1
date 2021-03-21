@@ -99,16 +99,15 @@ nav ul li a:hover {
 }
 
 .profils {
-    width: 10vw;
     margin-left: 50px;
     margin-right: 50px;
     display: flex;
     text-align: center;
 }
 
-
 .profils li a img {
     text-align: center;
+    width: 20vw;
 }
 
 .profils li a img:hover {
