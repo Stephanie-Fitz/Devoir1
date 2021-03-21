@@ -110,11 +110,22 @@ nav ul li a:hover {
     margin: 15px;
 }
 
+.titre {
+    margin: 100px;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #8B2635;
+}
+
 .profils {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin: 100px;
 }
 
 /* Pied de page : Section turquoise */

@@ -78,8 +78,9 @@ nav ul li a:hover {
 }
 
 .cv {
-    text-align: center;
+    justify-content: center;
     width: 30vw;
+    margin: 60px;
 }
  
 /* Pied de page : Section turquoise */
