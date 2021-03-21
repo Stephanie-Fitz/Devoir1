@@ -12,7 +12,6 @@ body {
 
 /* Haut de page : Section grise foncée */
 #header {
-    
     position: fixed;
     width: 100%;
     top: 0;
@@ -99,6 +98,11 @@ nav ul li a:hover {
 .profils {
     width: 10vw;
     display: flex;
+    justify-content: center;
+}
+
+.profils:hover {
+    opacity: 0.5;
 }
 
 /*.images {
