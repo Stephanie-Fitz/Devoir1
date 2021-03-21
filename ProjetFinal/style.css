@@ -98,14 +98,12 @@ nav ul li a:hover {
 .profils {
     width: 10vw;
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
     justify-content: center;
     margin-left: 50px;
     margin-right: 50px;
 }
 
-.Bianca:hover {
+.Bianca:hover, .Isabelle:hover, .Jonathan:hover {
     opacity: 0.5;
 }
 
