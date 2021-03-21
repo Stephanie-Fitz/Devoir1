@@ -133,6 +133,10 @@ nav ul li a:hover {
     width: 20vw;
 }
 
+.profils li a img:hover {
+    opacity: 0.5;
+}
+
 /* Pied de page : Section turquoise */
 #footer {
     bottom: 0;
