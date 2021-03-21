@@ -90,8 +90,8 @@ nav ul li a:hover {
 }
 
 .introduction {
-    margin: 40px;
-    text-align: center;
+    margin: 60px;
+    text-align: justify;
     font-size: 20px;
     font-family: 'Roboto Condensed', sans-serif;
 }
