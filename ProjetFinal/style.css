@@ -99,8 +99,8 @@ nav ul li a:hover {
 }
 
 .profils {
-    margin-left: 130px;
-    margin-right: 130px;
+    margin-left: auto;
+    margin-right: auto;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -112,12 +112,48 @@ nav ul li a:hover {
     text-align: center;
     width: 20vw;
     transition: cubic-bezier(.07,.5,.3,1) 0.6s;
+   
 }
 
 .profils li a img:hover {
     opacity: 0.5;
     transition: cubic-bezier(.07,.5,.3,1) 0.6s;
 }
+
+#slider {
+    position: relative;
+    width: 700px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+#precedent,
+#suivant {
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+    opacity: 0;
+    position: absolute;
+    margin-top: 130px;
+    font-size: 100px;
+    color: rgba(220, 220, 220, 0.8);
+    background-color: rgba(53, 143, 123, 0.8);
+    padding: 10px;
+}
+
+#precedent {
+    left: 0;
+}
+
+#suivant {
+    right: 0;
+}
+
+#slider:hover #precedent,
+#slider:hover #suivant {
+    opacity: 1;
+}
+  
 
 /*.images {
   /*display:inline-block;
