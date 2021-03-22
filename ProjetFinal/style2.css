@@ -100,7 +100,9 @@ nav ul li a:hover {
 }
 
 .main img {
-    width: 50vw;
+    width: 70vw;
+    margin-bottom: 30px;
+    text-align: center;
 }
  
 /* Pied de page : Section turquoise */
