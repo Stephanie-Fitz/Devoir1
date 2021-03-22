@@ -7,6 +7,7 @@
     <head>
         <meta charset="utf-8">
         <title>Accueil</title>
+        <script src="Fleches.js"></script>
     </head>
     <body>
         <link rel="stylesheet" href="style.css">
@@ -38,17 +39,16 @@
             <div class="introduction">
                 Bienvenue sur PROFOLIO, un site adapté pour épier différents profils d’usagers comprenant principalement leur portfolio. Grâce à notre chaîne de réseautage, vous avez la possibilité de tomber en amour avec la description brève, mais efficace, d’un professionnel dans votre domaine d’expertise. Afin de trouver la flamme qui ravivera votre équipe, vous avez la possibilité de cibler vos recherches selon les compétences des postulants, le secteur d’activité et même la région. Laissez-vous guider par votre curiosité et votre instinct, peut-être aurez-vous le coup de foudre pour l’un des candidats ?
             </div>
+            <div id="slider">
             <ul class="profils">
                 <li>
-                    <a href="Bianca.html"><img src ="Bianca.png"></a>
+                    <a href="Bianca.html"><img src ="Bianca.png" id="fleche"></a>
                 </li>
-                <li>
-                    <a href="Isabelle.html"><img src ="Isabelle.png"></a>
-                </li>
-                <li>
-                    <a href="Jonathan.html"><img src ="Jonathan.png"></a>
-                </li>
-            </ul>
+                <div id="precedent" onclick="ChangeFleche(-1)"><</div>
+                <div id="suivant" onclick="ChangeFleche(1)">></div>
+             <ul>
+            </div>
+                
             <!-- Le P est censé les placer en alignement
             <ul class="photos">
                 <p> 
