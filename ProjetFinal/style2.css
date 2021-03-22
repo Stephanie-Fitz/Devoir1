@@ -98,6 +98,10 @@ nav ul li a:hover {
     font-family: 'Roboto Condensed', sans-serif;
     line-height: 1.5;
 }
+
+.main img {
+    width: 50vw;
+}
  
 /* Pied de page : Section turquoise */
 #footer {
